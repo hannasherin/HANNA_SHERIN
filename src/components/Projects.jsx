@@ -22,7 +22,7 @@ const projects = [
 
 ];
 
-function Project() {
+function Projects() {
     return (
         <section className="section projects" id="projects">
 
@@ -82,4 +82,4 @@ function Project() {
     );
 }
 
-export default Project;
+export default Projects;

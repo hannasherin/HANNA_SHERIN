@@ -4,7 +4,7 @@ import About from './components/About';
 import Contact from './components/Contact'
 import Home from './components/Home';
 import Skills from './components/Skills';
-import Project from './components/Project';
+import Projects from './components/Projects';
 
 
 import './App.css';
@@ -18,7 +18,7 @@ function App() {
         <Home />
         <About />
         <Skills />
-        <Project />
+        <Projects />
         <Contact />
       </main>
 

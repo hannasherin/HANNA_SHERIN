@@ -10,7 +10,7 @@ import {
     FaArrowRight
 } from 'react-icons/fa';
 
-import profile from '../assets/profile.jpg';
+import profile from "../assets/Profile.jpg";
 
 function Home() {
     return (
